@@ -1,10 +1,10 @@
-采样率20k
-ch1 进入dsp电流
-ch2 电流ic1
-ch3 电流ia1
-ch4 位移x1
+sampling rate 20kHz
+ch1   i_dsp
+ch2   ic1
+ch3   ia1
+ch4   x1
 
-启浮过程
+
 1.  kp=1.2； ki=1； kd=0.0022
 2.  kp=1.3； ki=1； kd=0.0022
 3.  kp=1.4； ki=1； kd=0.0022
